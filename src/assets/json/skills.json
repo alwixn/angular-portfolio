@@ -22,18 +22,5 @@
     {
         "title":"Spring Boot",
         "icon" :"fas fa-4x fa-power-off"
-    },
-    {
-        "title":"MySql",
-        "icon" :"fas fa-4x fa-database"
-    },
-    {
-        "title":"MongoDb",
-        "icon" :"fas fa-4x fa-database"
-    },
-    {
-        "title":"RestFull Api",
-        "icon" :"fas fa-4x fa-ellipsis-h"
     }
-
 ]
